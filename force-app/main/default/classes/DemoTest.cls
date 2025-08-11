@@ -36,7 +36,7 @@ public class DemoTest {
         // Since the method only contains System.debug statements,
         // we just need to ensure it executes without throwing exceptions
         // The test passes if no exceptions are thrown
-        System.assert(true, 'demoMethod executed successfully');
+        System.assert(true, 'demoMethod executed successfullyssss');
     }
     
     /**
