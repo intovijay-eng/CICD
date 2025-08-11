@@ -6,5 +6,10 @@ public with sharing class Demo {
 
     public static void demoMethod(){
         System.debug('Welcome to VS code changes');
+        demoMethod2();
+    }
+
+    public static void demoMethod2(){
+        System.debug('Welcome to VS code changes');
     }
 }

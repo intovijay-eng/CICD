@@ -118,6 +118,7 @@ public class DemoTest {
         // Call static method 100 times
         for(Integer i = 0; i < 100; i++) {
             Demo.demoMethod();
+            Demo.demoMethod2();
         }
         
         Test.stopTest();
